@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/usama-ansari-387a28161"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:usamabidhussain@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:usamaabidansari@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 </div>
@@ -63,7 +63,7 @@ from the first screen to the App Store and Google Play release.
 <div align="center">
 
 **Most of my work lives in private company repos — but I'm always happy to talk shop.**
-📫 [LinkedIn](https://www.linkedin.com/in/usama-ansari-387a28161) · [usamabidhussain@gmail.com](mailto:usamabidhussain@gmail.com)
+📫 [LinkedIn](https://www.linkedin.com/in/usama-ansari-387a28161) · [usamaabidansari@gmail.com](mailto:usamaabidansari@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=usama-ships&color=02569B&style=flat-square&label=Profile+views" alt="Profile views" />
 
